@@ -2,5 +2,6 @@
 {
     "editor.renderWhitespace": true,
     "files.trimTrailingWhitespace": true,
-	"diffEditor.renderSideBySide": false
+	"diffEditor.renderSideBySide": false,
+    "javascript.validate.enable": false
 }
